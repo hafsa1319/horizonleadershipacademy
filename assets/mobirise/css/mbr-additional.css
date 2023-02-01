@@ -2,7 +2,7 @@ body {
   font-family: Anybody;
 }
 .display-1 {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 8.125rem;
   line-height: 1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 10.15625rem;
 }
 .display-2 {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 5rem;
   line-height: 1;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 6.25rem;
 }
 .display-4 {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.55rem;
   line-height: 1.3;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.9375rem;
 }
 .display-5 {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 3.125rem;
   line-height: 1;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 3.90625rem;
 }
 .display-7 {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.25rem;
   line-height: 1.3;
 }
@@ -586,7 +586,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.55rem;
   line-height: 1.3;
   font-weight: 400;
@@ -600,7 +600,7 @@ a:hover {
   border-color: #5f6ad4 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.55rem;
   line-height: 1.3;
   font-weight: 400;
